@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6EDF54E6-1677-4E26-B819-D26464EEE1B9</string>
+	<key>IDESourceControlProjectName</key>
+	<string>TableViewCellAnimation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>BFDFB52A-271E-4E27-977B-2E7FF24F29AE</key>
+		<string>https://github.com/fight-ing/TableViewCellAnimation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>TableViewCellAnimation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>BFDFB52A-271E-4E27-977B-2E7FF24F29AE</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fight-ing/TableViewCellAnimation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>BFDFB52A-271E-4E27-977B-2E7FF24F29AE</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>BFDFB52A-271E-4E27-977B-2E7FF24F29AE</string>
+			<key>IDESourceControlWCCName</key>
+			<string>TableViewCellAnimation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
