@@ -21,6 +21,7 @@
 		A5315C8819E66456007FF5E1 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = A5315C6A19E66456007FF5E1 /* UIKit.framework */; };
 		A5315C9019E66456007FF5E1 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A5315C8E19E66456007FF5E1 /* InfoPlist.strings */; };
 		A5315C9219E66456007FF5E1 /* TableViewCellAnimationTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A5315C9119E66456007FF5E1 /* TableViewCellAnimationTests.m */; };
+		A5315C9D19E6809D007FF5E1 /* CollectionViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = A5315C9C19E6809D007FF5E1 /* CollectionViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,8 @@
 		A5315C8D19E66456007FF5E1 /* TableViewCellAnimationTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TableViewCellAnimationTests-Info.plist"; sourceTree = "<group>"; };
 		A5315C8F19E66456007FF5E1 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		A5315C9119E66456007FF5E1 /* TableViewCellAnimationTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TableViewCellAnimationTests.m; sourceTree = "<group>"; };
+		A5315C9B19E6809D007FF5E1 /* CollectionViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewController.h; sourceTree = "<group>"; };
+		A5315C9C19E6809D007FF5E1 /* CollectionViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -117,6 +120,8 @@
 				A5315C7819E66456007FF5E1 /* Main.storyboard */,
 				A5315C7B19E66456007FF5E1 /* ViewController.h */,
 				A5315C7C19E66456007FF5E1 /* ViewController.m */,
+				A5315C9B19E6809D007FF5E1 /* CollectionViewController.h */,
+				A5315C9C19E6809D007FF5E1 /* CollectionViewController.m */,
 				A5315C7E19E66456007FF5E1 /* Images.xcassets */,
 				A5315C6D19E66456007FF5E1 /* Supporting Files */,
 			);
@@ -249,6 +254,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A5315C9D19E6809D007FF5E1 /* CollectionViewController.m in Sources */,
 				A5315C7D19E66456007FF5E1 /* ViewController.m in Sources */,
 				A5315C7719E66456007FF5E1 /* AppDelegate.m in Sources */,
 				A5315C7319E66456007FF5E1 /* main.m in Sources */,
@@ -456,6 +462,7 @@
 				A5315C9719E66456007FF5E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		A5315C9819E66456007FF5E1 /* Build configuration list for PBXNativeTarget "TableViewCellAnimationTests" */ = {
 			isa = XCConfigurationList;
@@ -464,6 +471,7 @@
 				A5315C9A19E66456007FF5E1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
